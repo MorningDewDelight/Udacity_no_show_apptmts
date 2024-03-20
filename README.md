@@ -20,7 +20,8 @@ Questions for Analysis
 
 4.What factors are important for us to know in order to predict if a patient will show up for their scheduled appointment?
 
-Conclusions
+
+**Conclusions**
 
 This data collected from April 29th to June 8th, which is just 40 days of data. This short period data cannot be reliable to make strong conclusion on correlation.
 1.Does appointment scheduled much earlier has any effect on no_show?
