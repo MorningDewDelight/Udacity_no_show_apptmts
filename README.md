@@ -26,7 +26,7 @@ Questions for Analysis
 This data collected from April 29th to June 8th, which is just 40 days of data. This short period data cannot be reliable to make strong conclusion on correlation.
 1.Does appointment scheduled much earlier has any effect on no_show?
 
-    By comparing days difference with no show data, its clear both are following same pattern irrespective of increase in days.But appointments booked within 30 days has higher show rate
+    By comparing days difference with no show data, its clear both are following same pattern irrespective of increase in days.But appointments booked within 30 days has higher show rate.
 
 2.In which location most of appointments are not honored?
 
@@ -40,7 +40,7 @@ This data collected from April 29th to June 8th, which is just 40 days of data. 
 
 4.What factors are important for us to know in order to predict if a patient will show up for their scheduled appointment?
 
-    The following factors might have impact on predicting if the patient will show up for their scheduled appointment
+    The following factors might have impact on predicting if the patient will show up for their scheduled appointment:
         Age group
         Alcoholism
         SMS received has negative impact
